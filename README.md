@@ -1,1 +1,6 @@
-# Cartoon-Network
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:682
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.010,
+cartoon_network_lat-682.ts
